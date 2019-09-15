@@ -6,6 +6,7 @@
     OpenGL, C++, C#
   description: | # this will include new lines to allow paragraphs
     <div style="text-align:center;"> <a href="https://project3citm.github.io/CulverinEngine-Project3" target="_blank"> <img src="images/Theon_arrow.gif" class="centerImage" alt="Unthorne" height="160" width="240"> </a> </div>
+    
     Unthorne is an accessible dungeon crawler game based on Game of Thrones TV series universe featuring King's Landing as a playable level. My job in this project was to develop ui features and script scenes for the milestones.   
     
 - layout: top-middle
@@ -16,15 +17,17 @@
     OpenGL, C++
   description: | # this will include new lines to allow paragraphs
     <div style="text-align:center;"> <a href="https://albertllopart.github.io/GTi-Engine-Reborn/" target="_blank"> <img src="images/material.png" class="centerImage" alt="GTi-Engine-Reborn" height="160" width="240"> </a> </div>
+    
     GTi Engine is a small game engine that i developed along with Albert Llopart (https://github.com/albertllopart) in less than three months. The engine uses OpenGL as the graphical API.
 
 - layout: top-middle
   name: RA Minigame
   link: https://www.youtube.com/watch?v=mV2x730Tmfk
   quote: >
-    C#
+    Unity + Vuforia C#
   description: | # this will include new lines to allow paragraphs
     <div style="text-align:center;"> <a href="https://www.youtube.com/watch?v=mV2x730Tmfk" target="_blank"> <img src="images/RA.png" class="centerImage" alt="ra_minigame" height="160" width="240"> </a> </div>
+    
     Developed this minigame for the augmented reality subject with unity + vuforia.
     
 - layout: top-middle
@@ -35,6 +38,7 @@
     SDL C++
   description: | # this will include new lines to allow paragraphs
     <div style="text-align:center;"> <a href="https://www.youtube.com/watch?v=ZRqApXHSnLs" target="_blank"> <img src="images/zelda_pokemon.gif" class="centerImage" alt="zelds" height="160" width="240"> </a> </div>
+    
     Game developed in c++ with SDL from scratch at second year at university, along with 5 members in three months.
 
 - layout: top-middle
@@ -42,9 +46,10 @@
   link: http://xdragan.github.io/Repositori-Parallax/
   github: xDragan/Repositori-Parallax
   quote: >
-    C++
+    SDL C++
   description: | # this will include new lines to allow paragraphs
     <div style="text-align:center;"> <a href="https://www.youtube.com/watch?v=z4ViCmESgpU" target="_blank"> <img src="images/bbros.gif" class="centerImage" alt="bbros" height="160" width="240"> </a> </div>
+    
     Game developed in c++ with SDL from scratch at first year at university, along with 3 members in three months.
 
     
