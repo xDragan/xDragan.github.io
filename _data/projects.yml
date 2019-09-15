@@ -1,8 +1,18 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+  name: Unthrone
+  link: https://project3citm.github.io/CulverinEngine-Project3/index.html
+  github: https://github.com/Project3CITM/CulverinEngine-Project3
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    OpenGL, C++, C#
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    Unthorne is an accessible dungeon crawler game based on Game of Thrones TV series universe featuring King's Landing as a playable level. My job in this project was to develop ui features and script scenes for the milestones. 
+    
+    
+- layout: top-middle
+  name: GTi Engine
+  link: https://albertllopart.github.io/GTi-Engine-Reborn/
+  github: https://github.com/albertllopart/GTi-Engine-Reborn
+  quote: >
+    OpenGL, C++
+  description: | # this will include new lines to allow paragraphs
+    GTi Engine is a small game engine that i developed along with [Albert LLopard] (https://github.com/albertllopart) in less than three months. The engine uses OpenGL as the graphical API.
