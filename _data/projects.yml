@@ -37,7 +37,7 @@
   quote: >
     SDL C++
   description: | # this will include new lines to allow paragraphs
-    <div style="text-align:center;"> <a href="https://github.com/NontendoSL/Zelda-a-Link-to-the-Past-TRIBUTE" target="_blank"> <img src="images/zelda_pokemon.gif" class="centerImage" alt="zelds" height="160" width="240"> </a> </div>
+    <div style="text-align:center;"> <a href="https://github.com/NontendoSL/Zelda-a-Link-to-the-Past-TRIBUTE" target="_blank"> <img src="images/zelda_pokemon.png" class="centerImage" alt="zelds" height="160" width="240"> </a> </div>
     
     Game developed in c++ with SDL from scratch at second year at university, along with 5 members in three months.
 
@@ -48,7 +48,7 @@
   quote: >
     SDL C++
   description: | # this will include new lines to allow paragraphs
-    <div style="text-align:center;"> <a href="https://www.youtube.com/watch?v=z4ViCmESgpU" target="_blank"> <img src="images/bbros.gif" class="centerImage" alt="bbros" height="160" width="240"> </a> </div>
+    <div style="text-align:center;"> <a href="https://www.youtube.com/watch?v=z4ViCmESgpU" target="_blank"> <img src="images/bbros.png" class="centerImage" alt="bbros" height="160" width="240"> </a> </div>
     
     Game developed in c++ with SDL from scratch at first year at university, along with 3 members in three months.
 
