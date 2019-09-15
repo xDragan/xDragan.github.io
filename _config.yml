@@ -24,7 +24,7 @@ youtube_username: 3009markuss
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Marc and I'm a videogame developeroper interested in programming (C/C#/C++) and design. I'm open to keep learning and improving as a developer and work on new projects in the years to come.
+  Hi, my name's Marc and I'm a videogame developer interested in programming (C/C#/C++) and design. I'm open to keep learning and improving as a developer and work on new projects in the years to come.
 
   I am most skilled in: <mark>Programming</mark> and <mark>Designing</mark> videogames.
   
