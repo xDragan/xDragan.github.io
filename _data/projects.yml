@@ -5,6 +5,7 @@
   quote: >
     OpenGL, C++, C#
   description: | # this will include new lines to allow paragraphs
+    <div style="text-align:center;"> <a href="https://project3citm.github.io/CulverinEngine-Project3/index.html" target="_blank"> <img src="images/Theon_arrow.gif" class="centerImage" alt="Unthorne" height="160" width="240"> </a> </div>
     Unthorne is an accessible dungeon crawler game based on Game of Thrones TV series universe featuring King's Landing as a playable level. My job in this project was to develop ui features and script scenes for the milestones. 
     
     
@@ -15,4 +16,5 @@
   quote: >
     OpenGL, C++
   description: | # this will include new lines to allow paragraphs
+    <div style="text-align:center;"> <a href="https://albertllopart.github.io/GTi-Engine-Reborn/" target="_blank"> <img src="images/material.png" class="centerImage" alt="GTi-Engine-Reborn" height="160" width="240"> </a> </div>
     GTi Engine is a small game engine that i developed along with [Albert LLopard] (https://github.com/albertllopart) in less than three months. The engine uses OpenGL as the graphical API.
