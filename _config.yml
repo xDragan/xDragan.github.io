@@ -3,19 +3,19 @@ repository: sproogen/resume-theme
 # favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Marc Fabián Vilà
+title: Videogame Programmer
+email: marcfv97@gmail.com
+# website: www.github.com/sproogen/resume-theme
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: ImMarkuss
+github_username:  xDragan
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+instagram_username: markussfabi
+linkedin_username: marc fabián i vilà
 # pinterest_username: jekyll
 youtube_username: globalmtb
 # googleplus_username: +jekyll
