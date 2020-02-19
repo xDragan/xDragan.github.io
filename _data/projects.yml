@@ -11,7 +11,7 @@
     Clash of Tanks is a multiplayer minigame made for networks and online videogames subject at university, developed along 2 other mates   
     
 
-layout: top-middle
+- layout: top-middle
   name: Unthrone
   link: https://project3citm.github.io/CulverinEngine-Project3/index.html
   github: Project3CITM/CulverinEngine-Project3
