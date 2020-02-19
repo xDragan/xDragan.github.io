@@ -1,4 +1,18 @@
+- 
+
 - layout: top-middle
+  name: Clash of Tanks
+  link: https://github.com/xDragan/Unity-MultiplayerGame
+  github: xDragan/Unity-MultiplayerGame
+  quote: >
+    C#, Unity
+  description: | # this will include new lines to allow paragraphs
+    <div style="text-align:center;"> <a href="https://www.youtube.com/watch?v=W1cyj3unKVk" target="_blank"> <img src="images/Theon_arrow.gif" class="centerImage" alt="Unthorne" height="216" width="384"> </a> </div>
+    
+    Clash of Tanks is a multiplayer minigame made for networks and online videogames subject at university, developed along 2 other mates   
+    
+
+layout: top-middle
   name: Unthrone
   link: https://project3citm.github.io/CulverinEngine-Project3/index.html
   github: Project3CITM/CulverinEngine-Project3
