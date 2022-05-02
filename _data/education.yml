@@ -1,9 +1,9 @@
-- layout: left
-  name: U-tad | University Center for Technology and Digital Art
-  dates: 2021 - 2022 
-  qualification: Master's Degree in Computer Graphics, Virtual Reality and Simulation
-  description: | # this will include new lines to allow paragraphs
-    In U-tad, I deepened my knowledge of programming and development focused on the field of XR  as well as simulation, putting everything I learned into practice.
+#- layout: left
+#  name: U-tad | University Center for Technology and Digital Art
+#  dates: 2021 - 2022 
+#  qualification: Master's Degree in Computer Graphics, Virtual Reality and Simulation
+#  description: | # this will include new lines to allow paragraphs
+#    In U-tad, I deepened my knowledge of programming and development focused on the field of XR  as well as simulation, putting everything I learned into practice.
 
 
 - layout: left
