@@ -4,18 +4,18 @@ repository: sproogen/resume-theme
 
 # Personal info
 name: Marc Fabián Vilà
-title: Videogame Programmer
+title: XR developer and Videogame developer
 email: marcfv97@gmail.com
 # website: www.github.com/sproogen/resume-theme
 
 # Social links
-#twitter_username: ImMarkuss
+twitter_username: ImMarkuss
 github_username:  xDragan
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-#instagram_username: markussfabi
-linkedin_username: linkedin.com/in/marc-fabián-i-vilà-855615108
+instagram_username: markussfabi
+linkedin_username: linkedin.com/in/mafavi
 # pinterest_username: jekyll
 youtube_username: 3009markuss
 # googleplus_username: +jekyll
@@ -24,11 +24,11 @@ youtube_username: 3009markuss
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Marc and I'm a videogame developer interested in programming (C/C#/C++) and design. I'm open to keep learning and improving as a developer and work on new projects in the years to come.
+  I’m an extended reality (VR, AR, MR) and videogame developer interested in programming(C/C/C++) and design. I’m open to keeping learning and improving as a developer and working on new projects in the years to come, especially those whose main objective is to help people in healthcare.
 
-  I am most skilled in: <mark>Programming</mark> and <mark>Designing</mark> videogames.
+  I am most skilled in: <mark>Developing,</mark>  <mark>Programming</mark> and <mark>Designing</mark> games and experiences.
   
-  I have worked developing with OpenGL, SDL, Box2D, Bullet, Recast and developed games with it (listed below)
+  I have worked developing with Oculus, HTC, Vuforia, ARFoundation, OpenGL, SDL, Box2D, Bullet, Recast and developed games or experiences with it (listed below);
   
 # Projects Section
 # projects_title: Projects
@@ -40,9 +40,9 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in software engineering some of my other interests and hobbies are:
-   - Gaming
-   - Motorcycles
-   - Sports
+   - 3D Printing
+   - Discovering
+   - Motorsport
    - Travelling
 
 #(https://www.youtube.com/watch?v=vtg4o__aRMg)
